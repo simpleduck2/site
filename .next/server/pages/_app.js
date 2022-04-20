@@ -5,7 +5,7 @@ exports.id = 888;
 exports.ids = [888];
 exports.modules = {
 
-/***/ 2529:
+/***/ 5380:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
@@ -99,14 +99,14 @@ __webpack_async_result__();
 
 /***/ }),
 
-/***/ 7499:
+/***/ 1966:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "h": () => (/* reexport safe */ _DropdownMenu__WEBPACK_IMPORTED_MODULE_0__.h)
 /* harmony export */ });
-/* harmony import */ var _DropdownMenu__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2529);
+/* harmony import */ var _DropdownMenu__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5380);
 var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_DropdownMenu__WEBPACK_IMPORTED_MODULE_0__]);
 _DropdownMenu__WEBPACK_IMPORTED_MODULE_0__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];
 
@@ -117,7 +117,7 @@ __webpack_async_result__();
 
 /***/ }),
 
-/***/ 8285:
+/***/ 6750:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
@@ -126,11 +126,11 @@ __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __we
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1664);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9894);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1853);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_dropdown__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7499);
-/* harmony import */ var _data_index__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6308);
+/* harmony import */ var _components_dropdown__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1966);
+/* harmony import */ var _data_index__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(374);
 var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_dropdown__WEBPACK_IMPORTED_MODULE_3__]);
 _components_dropdown__WEBPACK_IMPORTED_MODULE_3__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];
 
@@ -181,7 +181,7 @@ __webpack_async_result__();
 
 /***/ }),
 
-/***/ 2957:
+/***/ 3806:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
@@ -193,11 +193,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var overmind_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6452);
 /* harmony import */ var overmind_react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(overmind_react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_layout_Meta__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5545);
-/* harmony import */ var _overmind_index__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9897);
-/* harmony import */ var _templates_Footer__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2868);
-/* harmony import */ var _templates_Header__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4243);
-/* harmony import */ var _utils_AppConfig__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1305);
+/* harmony import */ var _components_layout_Meta__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5129);
+/* harmony import */ var _overmind_index__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3514);
+/* harmony import */ var _templates_Footer__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8871);
+/* harmony import */ var _templates_Header__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4064);
+/* harmony import */ var _utils_AppConfig__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5587);
 var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_templates_Header__WEBPACK_IMPORTED_MODULE_5__]);
 _templates_Header__WEBPACK_IMPORTED_MODULE_5__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];
 
@@ -233,7 +233,7 @@ __webpack_async_result__();
 
 /***/ }),
 
-/***/ 2868:
+/***/ 8871:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -241,11 +241,11 @@ __webpack_async_result__();
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1664);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9894);
 /* harmony import */ var react_icons_fa__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6290);
 /* harmony import */ var react_icons_fa__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_icons_fa__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_background_Background__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6247);
-/* harmony import */ var _components_layout_Section__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6912);
+/* harmony import */ var _components_background_Background__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(835);
+/* harmony import */ var _components_layout_Section__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6893);
 
 
 
@@ -342,7 +342,7 @@ const Footer = ()=>{
 
 /***/ }),
 
-/***/ 4243:
+/***/ 4064:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {
@@ -353,14 +353,14 @@ __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __we
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6689);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1664);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9894);
 /* harmony import */ var react_reveal__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4931);
 /* harmony import */ var react_reveal__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_reveal__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _components_background__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5806);
-/* harmony import */ var _components_dropdown__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(7499);
-/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1252);
-/* harmony import */ var _components_navigation_NavbarTwoColumns__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8285);
-/* harmony import */ var _data_index__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(6308);
+/* harmony import */ var _components_background__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9930);
+/* harmony import */ var _components_dropdown__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1966);
+/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3182);
+/* harmony import */ var _components_navigation_NavbarTwoColumns__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6750);
+/* harmony import */ var _data_index__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(374);
 var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_dropdown__WEBPACK_IMPORTED_MODULE_5__, _components_navigation_NavbarTwoColumns__WEBPACK_IMPORTED_MODULE_7__]);
 ([_components_dropdown__WEBPACK_IMPORTED_MODULE_5__, _components_navigation_NavbarTwoColumns__WEBPACK_IMPORTED_MODULE_7__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);
 
@@ -635,7 +635,7 @@ module.exports = import("@headlessui/react");;
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [730,664,117], () => (__webpack_exec__(2957)));
+var __webpack_exports__ = __webpack_require__.X(0, [652,894,730], () => (__webpack_exec__(3806)));
 module.exports = __webpack_exports__;
 
 })();

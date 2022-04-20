@@ -5,7 +5,7 @@ exports.id = 820;
 exports.ids = [820];
 exports.modules = {
 
-/***/ 9185:
+/***/ 6698:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 
@@ -117,7 +117,7 @@ module.exports = require("react");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__(9185));
+var __webpack_exports__ = (__webpack_exec__(6698));
 module.exports = __webpack_exports__;
 
 })();
