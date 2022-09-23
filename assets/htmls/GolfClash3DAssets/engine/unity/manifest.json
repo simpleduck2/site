@@ -1,0 +1,39 @@
+[
+  {
+    "src": "bin/bridge.js",
+    "priority": 0
+  },
+  {
+    "src": "bin/Bridge.Locales.js",
+    "priority": 4,
+    "optional": true
+  },
+  {
+    "src": "bin/UnityEngine.js",
+    "priority": 4
+  },
+  {
+    "src": "bin/TextMeshPro.js",
+    "priority": 4,
+    "optional": true
+  },
+  {
+    "src": "bin/Cinemachine.js",
+    "priority": 4,
+    "optional": true
+  },
+    {
+    "src": "bin/newtonsoft.json.js",
+    "priority": 4,
+    "require": "Newtonsoft.Json"
+  },
+  {
+    "src": "bin/DOTween.js",
+    "priority": 4,
+    "require": "DOTween"
+  },
+  {
+    "src": "bin/UnityScriptsCompiler.js",
+    "priority": 4
+  }
+]
